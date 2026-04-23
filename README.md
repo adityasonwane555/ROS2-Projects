@@ -6,9 +6,7 @@ This repo contains all the projects I made during my ROS2 learning phase
 
 ### Projects
 
-- [Sender Receiver System](https://github.com/adityasonwane555/Cpp-Socket-Sender-Receiver.git)
+- [ROS2 Learning Project](https://github.com/adityasonwane555/ros2-learning-project.git)
 
   
 ### Coming Soon...
-
-- [File Transfer System](link) (send files over network)
